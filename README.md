@@ -6,12 +6,16 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 
+
 This a portfolio project that simulates a KYC style transaction risk scoring engine using a sythetic fraud dataset (courtsey of kaggle).
 
 This project combines:
 - A **rules-based risk engine** for transparent analyst-friendly scoring
 - A **logistic regression model** for ML based fraud risk prediction
 - A **cute minimalist dashboard**
+
+## Live Demo
+[Open the Streamlit dashboard](https://kyc-risk-scoring-engine.streamlit.app)
 
 ## Overview
 
